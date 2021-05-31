@@ -1,9 +1,10 @@
 import React from 'react'
+import HomePage from "./pages/home-page/HomePage";
 
 function App() {
   return (
     <div>
-      <h1>Hello wordl</h1>
+        <HomePage />
     </div>
   )
 }
