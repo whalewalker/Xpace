@@ -1,5 +1,5 @@
-import "./homepage.scss";
-const HomePage = () =>{
+import "./collection-homepage.scss";
+const CollectionHomePage = () =>{
     return(
         <div className="homepage">
         <div className="directory-menu">
@@ -39,4 +39,4 @@ const HomePage = () =>{
     )
 }
 
-export default HomePage;
+export default CollectionHomePage;
